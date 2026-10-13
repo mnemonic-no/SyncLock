@@ -1,0 +1,11 @@
+{
+  "$schema": "https://schema.mnemonic.no/mnemonic.json/1.0.0/schema.json",
+  "repositoryOwner": "sebastian",
+  "projectName": "SyncLock",
+  "criticality": "none",
+  "policyExceptions": [
+    {"requirement": "mandatoryPR"},
+    {"requirement": "jiraReference"},
+    {"requirement": "mandatoryReviewByOther"}
+  ]
+}
