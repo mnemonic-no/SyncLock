@@ -1,3 +1,7 @@
+# Author: Sebastian Sanislav
+# mnemonic (https://mnemonic.io)
+# https://github.com/mnemonic-no/SyncLock
+
 <#
 .SYNOPSIS
     Fetch an Entra ID access token for the Sync API using the sync app registration certificate.
