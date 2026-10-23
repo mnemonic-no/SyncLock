@@ -1,3 +1,7 @@
+# Author: Sebastian Sanislav
+# mnemonic (https://mnemonic.io)
+# https://github.com/mnemonic-no/SyncLock
+
 param(
     [Parameter(Mandatory = $true)]
     [ValidateNotNullOrEmpty()]
