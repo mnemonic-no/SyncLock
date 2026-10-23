@@ -2,7 +2,7 @@
 
 PowerShell script to run the SyncLock attack: disabling users (cloud-only or synced) using a sync identity bearer token and the Sync API.
 
-For detailed information regarding the attack, read [this post](https://mnemonic.io).
+For detailed information regarding the attack, read [this post](https://www.mnemonic.io/resources/blog/synclock-how-an-on-premises-attack-can-lock-you-out-of-microsoft-entra-id/).
 
 ##  Disable_cloud_user.ps1
 
